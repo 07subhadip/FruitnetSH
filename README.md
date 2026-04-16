@@ -36,12 +36,15 @@ FruitNet SH leverages a custom-trained **EfficientNetB0** architecture to classi
 ---
 
 ## 🛠 Tech Stack
+
 ### Artificial Intelligence
+
 - **Keras/TensorFlow**: Model training and optimization.
 - **EfficientNetB0**: Base architecture for feature extraction.
 - **TensorFlow.js**: Client-side model execution.
 
 ### Web Architecture
+
 - **Next.js 15+**: App router and optimized deployment.
 - **Custom CSS**: Vanilla CSS for specialized Cyberpunk design system (Glassmorphism, Neon effects).
 - **Vercel**: Edge deployment and hosting.
@@ -62,10 +65,12 @@ FruitNet SH leverages a custom-trained **EfficientNetB0** architecture to classi
 To run this project locally, follow these steps:
 
 ### Prerequisites
+
 - Node.js 18.x or higher
 - npm or yarn
 
 ### Steps
+
 1. **Clone the repository**
    ```bash
    git clone https://github.com/07subhadip/FruitnetSH.git
