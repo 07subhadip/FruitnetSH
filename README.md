@@ -130,7 +130,8 @@ To run this project locally, follow these steps:
 ## 👤 Author
 
 **Subhadip Hensh (07subhadip)**  
-*Project Lead & AI Developer*  
+*Project Lead & AI Developer*
+
 - [GitHub](https://github.com/07subhadip)
 - [LinkedIn](https://www.linkedin.com/in/subhadiphensh/)
 
