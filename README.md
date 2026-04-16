@@ -1,3 +1,7 @@
+<div align="center">
+
+![FruitNet SH Header Banner](/public/assets/header.png)
+
 # FruitNet SH: Pomegranate Disease Classifier
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat&logo=next.js)](https://nextjs.org/)
@@ -8,6 +12,8 @@
 An advanced, high-performance web application designed for the early detection and classification of pomegranate diseases using Deep Learning.
 
 ---
+
+</div>
 
 ## 🔗 Live Demo
 
@@ -127,6 +133,8 @@ To run this project locally, follow these steps:
 
 ---
 
+<div align="center">
+
 ## 👤 Author
 
 **Subhadip Hensh (07subhadip)**  
@@ -140,3 +148,7 @@ To run this project locally, follow these steps:
 ## 📄 License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
+![FruitNet SH Footer Divider](/public/assets/footer.png)
+
+</div>
