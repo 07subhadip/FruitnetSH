@@ -3,7 +3,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat&logo=next.js)](https://nextjs.org/)
 [![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-Library-orange?style=flat&logo=tensorflow)](https://www.tensorflow.org/js)
 [![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?style=flat&logo=vercel)](https://fruitnet-sh.vercel.app/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 An advanced, high-performance web application designed for the early detection and classification of pomegranate diseases using Deep Learning.
 
@@ -119,4 +119,4 @@ To run this project locally, follow these steps:
 ---
 
 ## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
