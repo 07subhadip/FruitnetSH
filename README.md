@@ -10,12 +10,14 @@ An advanced, high-performance web application designed for the early detection a
 ---
 
 ## 🔗 Live Demo
+
 Experience the real-time AI classification here:  
 **[https://fruitnet-sh.vercel.app/](https://fruitnet-sh.vercel.app/)**
 
 ---
 
 ## 🔬 Project Overview
+
 FruitNet SH leverages a custom-trained **EfficientNetB0** architecture to classify pomegranate leaf and fruit images into five distinct categories. The project bridges the gap between complex ML research and an accessible, user-friendly interface, providing specialized diagnostics for pomegranate cultivation.
 
 ### Classification Categories:
@@ -113,6 +115,7 @@ To run this project locally, follow these steps:
 ---
 
 ## 🔮 Future Improvements
+
 - **PWA Support**: Offline analysis capabilities for field use.
 - **Batch Processing**: Ability to upload and analyze multiple images simultaneously.
 - **Metadata Export**: Option to download analysis reports as PDF/JSON.
