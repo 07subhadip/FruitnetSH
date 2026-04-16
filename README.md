@@ -20,7 +20,7 @@ Experience the real-time AI classification here:
 
 FruitNet SH leverages a custom-trained **EfficientNetB0** architecture to classify pomegranate leaf and fruit images into five distinct categories. The project bridges the gap between complex ML research and an accessible, user-friendly interface, providing specialized diagnostics for pomegranate cultivation.
 
-### Classification Categories:
+### Classification Categories
 
 - **Alternaria**
 - **Anthracnose**
