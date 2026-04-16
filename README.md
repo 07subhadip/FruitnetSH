@@ -49,6 +49,7 @@ FruitNet SH leverages a custom-trained **EfficientNetB0** architecture to classi
 ---
 
 ## 🏗 how it works
+
 1. **Data Acquisition**: Users upload a target pomegranate image.
 2. **Preprocessing**: The image is rendered to a hidden canvas, normalized to the `[-1, 1]` range, and resized to `224x224` pixels to match the EfficientNet input layer.
 3. **Neural Computation**: The TensorFlow.js engine executes the graph model across five classification layers.
@@ -89,6 +90,7 @@ To run this project locally, follow these steps:
 ---
 
 ## 📖 Usage Guide
+
 1. **Upload**: Drag and drop or click to upload a JPG/PNG image of a pomegranate.
 2. **Scan**: Click the **START_SCAN** button to initiate neural analysis.
 3. **Analyze**: Review the primary diagnosis and secondary probability scores.
@@ -97,6 +99,7 @@ To run this project locally, follow these steps:
 ---
 
 ## 📸 Screenshots
+
 ![FruitNet SH Dashboard](/public/demo.png)
 *Modern, Cyberpunk-inspired dashboard featuring neon accents and real-time inference indicators.*
 
@@ -111,6 +114,7 @@ To run this project locally, follow these steps:
 ---
 
 ## 👤 Author
+
 **Subhadip Hensh (07subhadip)**  
 *Project Lead & AI Developer*  
 - [GitHub](https://github.com/07subhadip)
@@ -119,4 +123,5 @@ To run this project locally, follow these steps:
 ---
 
 ## 📄 License
+
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
