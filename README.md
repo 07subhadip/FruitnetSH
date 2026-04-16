@@ -76,22 +76,26 @@ To run this project locally, follow these steps:
 ### Steps
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/07subhadip/FruitnetSH.git
    cd FruitnetSH
    ```
 
 2. **Install dependencies**
+
    ```bash
    npm install
    ```
 
 3. **Run the development server**
+
    ```bash
    npm run dev
    ```
 
 4. **Build for production**
+
    ```bash
    npm run build
    ```
