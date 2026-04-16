@@ -97,7 +97,8 @@ To run this project locally, follow these steps:
 ---
 
 ## 📸 Screenshots
-*(Coming Soon: High-resolution screenshots of the dashboard and analysis results)*
+![FruitNet SH Dashboard](/public/demo.png)
+*Modern, Cyberpunk-inspired dashboard featuring neon accents and real-time inference indicators.*
 
 ---
 
